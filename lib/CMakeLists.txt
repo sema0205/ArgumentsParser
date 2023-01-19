@@ -1,0 +1,1 @@
+add_library(argparser source/ArgParser.cpp source/Flag.cpp source/IntArgument.cpp source/StringArgument.cpp)
